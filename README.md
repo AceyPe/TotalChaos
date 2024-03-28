@@ -1,5 +1,7 @@
 # TotalChaos
-## A Racing game that is made in Unity for networks course, and will be polished for market later on.
+## A Racing game made in Unity
+
+#### Currently made for networks course will be polished for market later on.
 
 The Game takes inspiration from games like Twisted Metal and Mario Kart and it focuses on being as arcade and as chaotic as possible while being a racing game utilizing physics mechanics for cars and providing an excellent multiplayer experience
 
