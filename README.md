@@ -8,11 +8,11 @@
 The Game takes inspiration from games like Twisted Metal and Mario Kart and it focuses on being as arcade and as chaotic as possible while being a racing game utilizing physics mechanics for cars and providing an excellent multiplayer experience
 
 
-##About
+## About
 
 The Game allows you to play with various types of cars, each has a unique structure and theme to it making the game feel as arcady as possible
 
-###Cars
+### Cars
 
 ![alt text](<Screenshot 2024-05-22 010247.png>)
 
@@ -21,9 +21,9 @@ The Game allows you to play with various types of cars, each has a unique struct
 ![alt text](<Screenshot 2024-05-22 011156.png>)
 
 
-All Cars have available powrups for them to get advantages to win
+All Cars have available powerups for them to get advantages to win
 
-####Current Powerups
+#### Current Powerups
  
 ![alt text](<Screenshot 2024-05-22 012006.png>)
 
